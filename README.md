@@ -74,8 +74,6 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
@@ -101,25 +99,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/EDA-Data%20Exploration-8B5CF6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Cleaning-6366F1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Feature%20Engineering-4F46E5?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Statistics%20%26%20Probability-4338CA?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🎯 What I'm Interested In
-
-```text
-Data Science
-      ↓
-Data Analysis & EDA
-      ↓
-Machine Learning
-      ↓
-Deep Learning
-      ↓
-NLP & Generative AI
-      ↓
-Real-World AI Applications
