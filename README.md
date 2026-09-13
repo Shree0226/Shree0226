@@ -1,12 +1,13 @@
-<div align="center">
+<!-- ========================= HEADER ========================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shree%20Raksha%20R&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20Machine%20Learning&descAlignY=55&descSize=18" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,20,24&text=SHREE%20RAKSHA%20R&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=DATA%20SCIENCE%20%E2%80%A2%20AI%20%E2%80%A2%20MACHINE%20LEARNING&descAlignY=58&descSize=18" width="100%"/>
+</p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Data+Science+%2B+AI+Enthusiast;Exploring+Machine+Learning+%26+Deep+Learning;Building+HEADSTART+%E2%80%94+Explainable+Financial+Research;Open+to+Opportunities" alt="Typing SVG" />
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Data+Science+%7C+AI+%7C+Machine+Learning;Python+%7C+Data+Analysis+%7C+ML;Turning+Data+into+Insights+and+Intelligent+Solutions" />
+</p>
 
-<br/>
 
 ![Engineering Student](https://img.shields.io/badge/Final%20Year-Engineering%20Student-6D28D9?style=for-the-badge&logo=studyverse&logoColor=white)
 ![Location](https://img.shields.io/badge/Based%20in-India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
