@@ -5,30 +5,27 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Data+Science+%7C+AI+%7C+Machine+Learning;Python+%7C+Data+Analysis+%7C+ML;Turning+Data+into+Insights+and+Intelligent+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=800&lines=Data+Science+%7C+AI+%7C+Machine+Learning;Python+%7C+Data+Analysis+%7C+ML;Turning+Data+into+Insights+and+Intelligent+Solutions" />
 </p>
 
-<div align="center">
-  
-<br/>
-![Engineering Student](https://img.shields.io/badge/Final%20Year-Engineering%20Student-6D28D9?style=for-the-badge&logo=studyverse&logoColor=white)
-![Location](https://img.shields.io/badge/Based%20in-India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/FINAL%20YEAR-ENGINEERING%20STUDENT-8B5CF6?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DATA%20%7C%20AI%20%7C%20ML-FOCUSED-6366F1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BASED%20IN-INDIA-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shree-raksha-r-bb60a9293">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Shree0226">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shree-raksha-r-bb60a9293)
-[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreeraksha.206@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shree0226)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Shree0226&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Shree0226?color=6D28D9&style=for-the-badge&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/Shree0226?color=A78BFA&style=for-the-badge&label=STARS)
-
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shree0226&style=for-the-badge&color=8B5CF6&label=PROFILE%20VIEWS"/>
+</p>
 
 ---
 
