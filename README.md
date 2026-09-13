@@ -34,7 +34,6 @@
 - 🎓 Final-year Information Science Engineering student at Dr. Ambedkar Institute of Technology, Bengaluru
 - 📊 Focused on turning raw data into insight through analysis, EDA, and visualization
 - 🤖 Exploring machine learning, deep learning, NLP, and generative AI through projects and hands-on practice
-- 🔭 Building **HEADSTART**, a solo project applying ML and NLP to explainable financial research
 - 💡 Interested in applying AI/ML to real-world problems, not just theory
 
 <div align="center">
@@ -50,6 +49,7 @@
 **Programming**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Sql](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Data Analysis & Visualization**
 
