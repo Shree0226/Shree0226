@@ -7,9 +7,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Data+Science+%7C+AI+%7C+Machine+Learning;Python+%7C+Data+Analysis+%7C+ML;Turning+Data+into+Insights+and+Intelligent+Solutions" />
 </p>
-
+<div align="center">
 <br/>
-
 ![Engineering Student](https://img.shields.io/badge/Final%20Year-Engineering%20Student-6D28D9?style=for-the-badge&logo=studyverse&logoColor=white)
 ![Location](https://img.shields.io/badge/Based%20in-India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
 
@@ -28,8 +27,6 @@
 </div>
 
 <br/>
-
----
 
 ---
 
