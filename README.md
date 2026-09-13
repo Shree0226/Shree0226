@@ -7,24 +7,36 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Data+Science+%7C+AI+%7C+Machine+Learning;Python+%7C+Data+Analysis+%7C+ML;Turning+Data+into+Insights+and+Intelligent+Solutions" />
 </p>
+<div align="center">
 
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shree%20Raksha%20R&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20Machine%20Learning&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Data+Science+%2B+AI+Enthusiast;Exploring+Machine+Learning+%26+Deep+Learning;Building+HEADSTART+%E2%80%94+Explainable+Financial+Research;Open+to+Opportunities" alt="Typing SVG" />
+</a>
+
+<br/>
+
 ![Engineering Student](https://img.shields.io/badge/Final%20Year-Engineering%20Student-6D28D9?style=for-the-badge&logo=studyverse&logoColor=white)
 ![Location](https://img.shields.io/badge/Based%20in-India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
-</p>
-<p align="center">
+
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shree-raksha-r-bb60a9293)
 [![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreeraksha.206@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shree0226)
-</p>
-<p align="center">
+
+<br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Shree0226&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/Shree0226?color=6D28D9&style=for-the-badge&label=FOLLOWERS)
 ![Stars](https://img.shields.io/github/stars/Shree0226?color=A78BFA&style=for-the-badge&label=STARS)
-</p>
+
 </div>
 
 <br/>
+
+---
 
 ---
 
