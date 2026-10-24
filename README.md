@@ -125,7 +125,7 @@ Open To:
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/8B5CF6/Shree0226" alt="Shree Raksha's GitHub contribution calendar" width="100%"/>
+<img src="https://ghchart.rshah.org/8B5CF6/Shree0226" alt="Shree Raksha's GitHub contribution calendar" width="100%"/> 
 
 </div>
 
