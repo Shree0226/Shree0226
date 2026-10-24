@@ -1,3 +1,4 @@
+
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
@@ -15,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shree-raksha-r-bb60a9293">
+  <a href="https://www.linkedin.com/in/shree-raksha-r-bb60a9293/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Shree0226">
@@ -41,6 +42,21 @@
 **🎯 Open To:** Data Science &nbsp;•&nbsp; AI/ML &nbsp;•&nbsp; Data Analytics &nbsp;•&nbsp; Internships &nbsp;•&nbsp; Collaborations
 
 </div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - Deep Learning & NLP
+  - Generative AI & LLMs
+
+Open To:
+  - Data Science roles
+  - AI/ML roles
+  - Internships & collaborations
+```
 
 ---
 
@@ -76,25 +92,9 @@
 
 ---
 
-## 🤖 AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| Machine Learning | 🟣🟣🟣⚪⚪ | Regression, classification, model evaluation with scikit-learn |
-| Deep Learning | 🟣🟣⚪⚪⚪ | Neural networks via PyTorch and TensorFlow |
-| NLP | 🟣🟣⚪⚪⚪ | Text extraction and processing pipelines |
-| Generative AI & LLMs | 🟣🟣⚪⚪⚪ | Retrieval-augmented research assistant (in progress) |
-| Data Analysis & EDA | 🟣🟣🟣🟣⚪ | Cleaning, visualizing, and drawing insight from raw data |
-
-</div>
-
----
-
 ## 📜 Certifications
 
-<!-- Add certifications here -->
+<!-- Add your actual certifications and certificate links here -->
 
 ---
 
@@ -102,7 +102,10 @@
 
 <div align="center">
 
+<!-- Replace the placeholder URLs below with your actual profiles -->
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-handle)
+
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/your-handle)
 
 </div>
@@ -114,6 +117,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Shree0226&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%"/>
+
 <img src="https://streak-stats.demolab.com?user=Shree0226&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shree0226&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
@@ -122,53 +126,59 @@
 
 ---
 
-## 🏅 GitHub Trophies
+## 📅 GitHub Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shree0226&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shree0226&theme=github_dark" width="100%"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🖥️ Pixel Art Corner
+
+<!-- Replace this temporary ASCII art with your chosen custom pixel-art image later -->
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shree0226&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Shree0226/Shree0226/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-> To generate this, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to a repo named after your username.
-
----
-
-## 🎯 Current Focus
-
-```yaml
-Learning:
-  - Deep Learning & NLP
-  - Generative AI & LLMs
-
-Open To:
-  - Data Science roles
-  - AI/ML roles
-  - Internships & collaborations
+```text
+       .--------.
+       |  CODE  |
+       |  >_    |
+       '---+----'
+           |
+      .----+----.
+      |  PYTHON |
+      |  AI / ML|
+      '---------'
 ```
 
+</div>
+
 ---
 
+## 📬 Contact Me
+
+<div align="center">
+
+Feel free to connect with me for opportunities, collaborations, and discussions around Data Science and AI/ML.
+
+<a href="mailto:shreeraksha.262@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shree-raksha-r-bb60a9293/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Shree0226">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
 
 <div align="center">
 
