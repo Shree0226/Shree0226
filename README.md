@@ -102,7 +102,7 @@ Open To:
 
 <div align="center">
 
-<!-- Replace the placeholder URLs below with your actual profiles -->
+<!-- Replace these example URLs with your real coding profile links -->
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-handle)
 
@@ -120,8 +120,6 @@ Open To:
 
 <img src="https://streak-stats.demolab.com?user=Shree0226&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shree0226&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
-
 </div>
 
 ---
@@ -130,29 +128,7 @@ Open To:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shree0226&theme=github_dark" width="100%"/>
-
-</div>
-
----
-
-## 🖥️ Pixel Art Corner
-
-<!-- Replace this temporary ASCII art with your chosen custom pixel-art image later -->
-
-<div align="center">
-
-```text
-       .--------.
-       |  CODE  |
-       |  >_    |
-       '---+----'
-           |
-      .----+----.
-      |  PYTHON |
-      |  AI / ML|
-      '---------'
-```
+<img src="https://ghchart.rshah.org/8B5CF6/Shree0226" alt="Shree Raksha's GitHub contribution calendar" width="100%"/>
 
 </div>
 
@@ -167,13 +143,8 @@ Feel free to connect with me for opportunities, collaborations, and discussions 
 <a href="mailto:shreeraksha.262@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/shree-raksha-r-bb60a9293/">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Shree0226">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
