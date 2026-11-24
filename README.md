@@ -131,6 +131,16 @@ Open To:
 
 ---
 
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Shree0226/Shree0226/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%"/>
+
+</div>
+
+---
+
 ## 📬 Contact Me
 
 <div align="center">
